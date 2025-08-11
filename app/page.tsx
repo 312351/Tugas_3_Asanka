@@ -32,7 +32,7 @@ export default function Home() {
             <div className="w-[100vh] h-[8vh] flex items-center justify-end gap-x-[60px] p-3 bg-transparent lg:bg-black lg:flex">
               <ul className="hidden font-montserrat text-[75%] p-5 gap-x-25 flex w-full  text-white text-center items-center whitespace-nowrap text-sm tracking-wide uppercase lg:block lg:flex">
                 <li>Home</li>
-                <li className="underline">Schedule and membership</li>
+                <li>Schedule and membership</li>
                 <li>About</li>
                 <li>Contact Us</li>
               </ul>
